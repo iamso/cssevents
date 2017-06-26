@@ -1,0 +1,17 @@
+{
+  "name": "cssevents",
+  "repository": "iamso/cssevents",
+  "description": "Get the correct transition- or animation-end event.",
+  "version": "0.1.0",
+  "keywords": [
+    "css",
+    "events"
+  ],
+  "scripts": [
+    "dist/cssevents.js",
+    "dist/cssevents.min.js",
+    "dist/cssevents.next.js",
+    "dist/cssevents.next.min.js"
+  ],
+  "license": "MIT"
+}
