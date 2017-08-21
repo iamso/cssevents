@@ -1,6 +1,6 @@
 {
   "name": "cssevents",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Get the correct transition- or animation-end event.",
   "repository": {
     "type": "git",
